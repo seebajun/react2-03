@@ -1,0 +1,23 @@
+.containerCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5rem;
+    border: none;
+}
+
+.cardPokemon{
+    display: flex;
+    flex-direction: row;
+    color: #CF6679;
+    padding: 2rem;
+}
+
+Button{
+    margin: 1rem;
+}
+
+.nombre{
+    font-size: xx-large;
+    color: #CF6679;
+}
